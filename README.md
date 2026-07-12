@@ -1,9 +1,11 @@
+[README-profile-template.md](https://github.com/user-attachments/files/29944317/README-profile-template.md)
+<!-- Banner / Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hi%20There!%20I'm%20Arief%20Huda&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">👋 Arief Huda</h1>
-<h3 align="center">Mahasiswa | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">automation fiddler</h3>
 
 <p align="center">
   <a href="https://github.com/Ariefhuda434">
@@ -18,11 +20,11 @@
 
 ## 💫 About Me
 
-- 🎓 Mahasiswa yang tertarik di dunia **Web Development** & **Algorithms**
-- 🔭 Lagi ngerjain: **[API-get](https://github.com/Ariefhuda434/API-get)** — Express + automation project
-- 🌱 Saat ini belajar: **JavaScript, Python, Laravel**
-- 📂 Project tugas besar: **Ayam Pecak Joko Moro** (MSBD) & **BinaryProject**
-- ⚡ Fun fact: Suka ngulik algoritma CPU scheduling & binary search
+- 🔭 Lagi ngulik **Viral Cut Pro v2.0** di [API-get](https://github.com/Ariefhuda434/API-get) — Express REST API buat automate video-to-shorts lewat Klap API, lengkap sama yt-dlp, Playwright browser automation, sama JSON database (biar rame aja)
+- 🏗️ Pernah bikin **Ayam Pecak Joko Moro** (Laravel + Blade — POS & manajemen restoran) sama **BinaryProject**, tugas kuliah yang beneran kepake
+- 🧠 Ngoding algoritma juga — **CPU Scheduling** (Python) sama **A* Search Parking** (JavaScript)
+- 🐧 Dual-boot life, lebih sering di terminal daripada GUI, JSON > SQLite kalo lagi males
+- ⚡ Kolaps kalo liat kode yang ga konsisten indentasinya
 
 ---
 
@@ -30,8 +32,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,laravel,blade,php,c,cpp,html,css,bootstrap,mysql,vscode,git,github,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,laravel,blade,php,c,cpp,html,css,bootstrap,mysql,docker,vscode,git,github,linux,bash" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Klap%20API-6C5CE7?style=flat-square&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" />
 </p>
 
 ---
@@ -87,5 +96,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ariefhuda434&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views"/>
 </p>
-
--->
